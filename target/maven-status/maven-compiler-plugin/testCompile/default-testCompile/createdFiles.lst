@@ -1,0 +1,13 @@
+steps\Common.class
+pageObjects\FilterPage.class
+steps\FilterPageStep.class
+utils\PicoDependencyInjector.class
+utils\MailSender.class
+verifier\FilterVerifier.class
+pageObjects\HomePage.class
+steps\FlowStep.class
+verifier\SearchVerifier.class
+pageObjects\SignOnPage.class
+verifier\ArticleVerifier.class
+utils\Context.class
+Curso\AutomationII\RunCuckesTest.class
